@@ -2,7 +2,7 @@ Title: About Me
 Category: About
 Authors: Yash Sarkango
 
-![Picture](images/photo.JPG)
+![Picture](../images/photo.JPG)
 
 I am a postdoctoral researcher studying space plasmas, particularly in planetary magnetospheres. I work at the Space Physics Group ([SpacePhysics@Princeton](https://spacephysics.princeton.edu/)) at Princeton University, which I joined in 2022. Prior to that I was at the University of Michigan's Climate and Space Science and Engineering (CLASP) department where I completed my PhD dissertation on global modeling of Jupiter's magnetosphere. 
 
