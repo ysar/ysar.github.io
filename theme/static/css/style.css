@@ -1,0 +1,89 @@
+html {
+	background-image: url('../images/bg2.svg')
+  }
+  
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  background-color: white; 
+  color: #111;
+  width: 80%;
+  min-width: 400px;
+  min-height: 200px;
+  padding: 1em;
+  margin: 5% 10%;
+  border: thin solid gray;
+  border-radius: 5px;
+  display: block;
+}
+
+a:link    { color: blue; text-decoration: none;      }
+a:hover   { color: blue; text-decoration: underline; }
+a:visited { color: blue;                             }
+
+h1 a { color: inherit !important }
+h2 a { color: inherit !important }
+h3 a { color: inherit !important }
+h4 a { color: inherit !important }
+h5 a { color: inherit !important }
+h6 a { color: inherit !important }
+
+/*
+h1 {
+	text-align: center;
+}*/
+
+#menu li {
+    display: inline;
+	margin: 1px 1px 1px 10px;
+	border: thin solid gray;
+	padding: 1em;
+
+}
+
+#post-list {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+pre {
+	font-family: "Monaco";
+	background: #eeeeee;
+	border-radius: 5px;
+	padding: 1em;
+    margin: 2em 1em 2em 4em;
+}
+
+.hgroup {
+	text-align: center !important;
+}
+
+#comments-list {list-style: none; margin: 0 1em;}
+#comments-list blockquote {
+	background: #f8f8f8;
+	clear: both;
+	font-style: normal;
+	margin: 0;
+	padding: 15px 20px;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+#comments-list footer {color: #888; padding: .5em 1em 0 0; text-align: right;}
+
+#comments-list li:nth-child(2n) blockquote {background: #F5f5f5;}
+
+/* Add a Comment */
+#add-comment label {clear: left; float: left; text-align: left; max-width: 150px;}
+#add-comment input[type='text'],
+#add-comment input[type='email'],
+#add-comment input[type='url'] {float: left; max-width: 200px;}
+
+#add-comment textarea {float: left; height: 150px; max-width: 495px;}
+
+#add-comment p.req {clear: both; margin: 0 .5em 1em 0; text-align: right;}
+
+#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
+#add-comment * {margin-bottom: .5em;}
