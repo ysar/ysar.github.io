@@ -1,7 +1,9 @@
-Title: Caveats of custom binary data formats
+Title: #001: Caveats of custom binary data formats
 Date: 2023-12-03
 Summary: 
 Author: Yash Sarkango
+Tags: Code
+Slug: 001
 
 # TL;DR
 Use column-major data formats when saving a table in binary format that has more rows than columns, and row-major format if vice-versa.
@@ -181,7 +183,7 @@ Hence, it appears that column-major ordering of binary data is faster since it u
         read_binary_columnmajor(nx, ny)
         etime_column = time.time() - start
 
-        tratio[i] = etime_column / etime_row
+        tratio[i] = etime_row / etime_column
         
         i += 1
 
@@ -196,10 +198,10 @@ Hence, it appears that column-major ordering of binary data is faster since it u
 
     ax.set_xlabel('Number of rows / Number of columns')
     ax.set_ylabel('Ratio of read time \n (row-major to column-major)')
-    ax.text(8e-3, 5, 'Column-major faster')
-    ax.text(3e1, 0.6, 'Row-major faster')
-    ax.text(0.8, 3.5, 'N$_{rows}$ > N$_{cols}$', horizontalalignment='right', color='r')
-    ax.text(1.2, 3.5, 'N$_{rows}$ < N$_{cols}$', horizontalalignment='left', color='b')
+    ax.text(1.5, 3.2, 'Column-major faster')
+    ax.text(1e-3, 0.75, 'Row-major faster')
+    ax.text(1e-3, 0.5, 'N$_{rows}$ < N$_{cols}$', horizontalalignment='left', color='r')
+    ax.text(1.5, 3.0, 'N$_{rows}$ > N$_{cols}$', horizontalalignment='left', color='b')
     fig.savefig('images/trend.png', dpi=300, bbox_inches='tight', facecolor='w')
 
 This gives us the following plot,
