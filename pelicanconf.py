@@ -19,6 +19,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 THEME = './theme'
 
+MD_EXTENSIONS = ['codehilite(noclasses=True, pygments_style=native)', 'extra']
+
 # Blogroll
 # LINKS = (('Pelican', 'https://getpelican.com/'),
 #          ('Python.org', 'https://www.python.org/'),
