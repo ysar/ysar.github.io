@@ -2,8 +2,7 @@
 
 {% block content %}
 {{ super() }}
-// 
-<{% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+{% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
 <div class="comments">
   <h2>Comments !</h2>
   <div id="disqus_thread"></div>
