@@ -19,6 +19,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 THEME = './theme'
 
+MD_EXTENSIONS = ['extra']
+
 # MD_EXTENSIONS = ['codehilite(noclasses=True, pygments_style=native)', 'extra']
 
 # Blogroll
