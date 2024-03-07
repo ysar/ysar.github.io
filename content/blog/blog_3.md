@@ -4,7 +4,7 @@ Summary:
 Tags: News
 Slug: 003
 
-Happy to announce that my colloborators and I have published a new
+Happy to announce that my collaborators and I have published a new
  [paper](https://doi.org/10.1029/2023GL107431) in 
 Geophysical Research Letters discussing resonant plasma acceleration by the 
 Galilean moons. Here is the plain language summary from the paper - 
