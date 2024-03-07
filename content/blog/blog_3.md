@@ -1,5 +1,5 @@
 Title: #003: New paper about plasma resonances driven by the Galilean moons
-Date: 2024-01-29
+Date: 2024-03-06
 Summary: 
 Tags: News
 Slug: 003
