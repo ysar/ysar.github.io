@@ -49,7 +49,7 @@ Consider the following data table, which contains 100000 rows and 101 columns. T
 
 This sort of row and column structure is very intuitive. Each row is a unique measurement and each column is a property of that measurement. In space science, rows are typically the time *when* the measurement was made and the columns contain information of what data was measured. Perhaps because of our intuitive familiarity with rows and columns, binary data is also stored *implicitly* as rows and columns. This can take one of two forms - the row-major approach, when the entire row is written out first, then the next, and so on; and the column-major approach, when the entire column contains data from all rows is written out at once, then the next, and so on. These two approaches are illustrated below.
 
-<img src="{static}../images/blog1/major-order-illustration.png" alt="Picture" width="800"/>  
+<img src="{static}../images/blog1/major-order-illustration.png" alt="Picture">  
 *(Row-major v/s column-major data storage.)*  
 
 

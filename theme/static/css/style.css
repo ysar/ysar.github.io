@@ -6,7 +6,6 @@
 
 html {
 	margin: auto;
-	width: 50%;
 	background-color: #eeeeee;
 }
 
@@ -15,15 +14,31 @@ body {
     font-size : 100% ;
     background-color : white ;
     color : #111 ;
-    width : 80% ;
-    min-width : 400px ;
-    min-height : 200px ;
     padding : 1em ;
-    /* margin : 5% 10% ; */
     border : thin solid gray ;
     border-radius : 5px ;
     display : block ;
 }
+
+@media (min-width: 720px) {
+
+	html {
+		width: 50%;
+	}
+	body {
+		max-width : 100% ;
+	}
+	nav li {
+		display: inline-block ;
+		border: thin solid gray ;
+		border-radius : 5px ;
+		padding: 1em;
+	}
+	nav {
+		text-align: center;
+	}
+  }
+  
 
 a:link    { color : blue ; text-decoration : none ;      }
 a:hover   { color : blue ; text-decoration : underline ; }
@@ -50,22 +65,14 @@ pre {
 }
 
 nav { 
-	text-align: center;
 	font-weight: bold;
 	border-bottom: thin solid black;
 	padding: 1em;
 }
 
-nav li {
-	display: inline-block ;
-	border: thin solid gray ;
-	border-radius : 5px ;
-	padding: 1em;
-}
-
 img {
 	margin: auto;
-	max-width: 720px;
+	max-width: 100%;
 }
 
 hgroup {
