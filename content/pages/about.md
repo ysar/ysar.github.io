@@ -12,3 +12,6 @@ I am a postdoctoral researcher studying planetary magnetospheres. I work at the 
 My particular expertise is in giant planet magnetospheres like that of Jupiter, and its interaction with moons like Io, Europa, Ganymede, and Callisto. This field is somewhat at the intersection of space plasma physics and planetary science and benefits from measurements made in situ by spacecraft. These in-situ measurements not only provide information about the magnetospheres and space environment, but also inform us about the planet itself. 
 
 In my spare time I like to walk around nature and observe wildlife. I also like to learn new things about computers and programming and use them at my day job.
+
+---
+**Update** (2024-03-31) - I am looking for postdoc opportunities in computational space science starting Fall 2024 or later. In case you would be interested in working together, please do consider [reaching out](mailto:sarkango@princeton.edu), or listing an advertisement in various newsletters (e.g. [SPA](http://lists.igpp.ucla.edu/mailman/listinfo/spa)), and I will probably find it. 
