@@ -43,7 +43,7 @@ body {
 
 	img {
 		margin: auto;
-		max-width: 60%;
+		max-width: 75%;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -58,9 +58,15 @@ body {
 		margin-right: auto;
 	}
 }
-a:link    { color : #dcdce9 ; text-decoration : none ;      }
-a:hover   { color : #dcdce9 ; text-decoration : underline ; }
-a:visited { color : #dcdce9 ;                               }
+
+li + li {
+	text-align: left;
+	margin-top: 10px;
+  }
+
+a:link    { color : #a4bbc5 ; text-decoration : none ;      }
+a:hover   { color : #a4bbc5 ; text-decoration : underline ; }
+a:visited { color : #a4bbc5 ;                               }
 
 /* h1 a { color : inherit !important }
 h2 a { color : inherit !important }
