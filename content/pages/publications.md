@@ -3,6 +3,17 @@ Category: Research
 Summary: 
 
 ## Peer-reviewed Publications
+
+My Google Scholar profile - [link](https://scholar.google.com/citations?user=acYllUcAAAAJ&hl=en&oi=ao)
+
+10. **Sarkango, Y.**, Szalay, J. R., Damiano, P. A., Sulaiman, A. H., Delamere, P. A., Saur, J., et al. (2025).
+Corotation-bounce resonance of ions in Jupiter's magnetosphere. Geophysical Research Letters, 52,
+e2024GL113193. [https://doi.org/10.1029/2024GL113193](https://doi.org/10.1029/2024GL113193)  
+9. Szalay, J. R., Saur, J., Allegrini, F., Ebert, R. W., Valek, P. W., Clark, G., et al. (2024). Ion precipitation into
+Io's poles driven by a strong sub-Alfvénic interaction. Geophysical Research Letters, 51, e2024GL110205.
+[https://doi.org/10.1029/2024GL110205](https://doi.org/10.1029/2024GL108422)  
+8. Allegrini, F., Saur, J., Szalay, J. R., Ebert, R. W., Kurth, W. S., Cervantes, S., et al. (2024). Electron beams
+at Europa. Geophysical Research Letters, 51, e2024GL108422. [https://doi.org/10.1029/2024GL108422](https://doi.org/10.1029/2024GL108422)  
 7. Rabia, J., Hue, V., André, N., Nénon, Q., Szalay, J. R., Allegrini, F., et al. (2024). Properties of electrons accelerated by the Ganymede-magnetosphere interaction: Survey of Juno high-latitude observations. Journal of Geophysical Research: Space Physics, 129, e2024JA032604. [https://doi.org/10.1029/2024JA032604](https://doi.org/10.1029/2024JA032604)  
 6. Glocer, A., Garcia-Sage, K., Sulaiman, A., Clark, G., Szalay, J. R., **Sarkango, Y.**, & Bell, J. (2024). Modeling ion conic formation in Io's auroral footprint. Journal of Geophysical Research: Space Physics, 129, e2023JA032322. [https://doi.org/10.1029/2023JA032322](https://doi.org/10.1029/2023JA032322) 
 5. **Sarkango, Y.**, Szalay, J. R., Sulaiman, A. H., Damiano, P. A., McComas, D. J., Rabia, J., et al. (2024). Resonant plasma acceleration at Jupiter driven by satellite-magnetosphere interactions. Geophysical Research Letters, 51, e2023GL107431. [https://doi.org/10.1029/2023GL107431](https://doi.org/10.1029/2023GL107431) 
