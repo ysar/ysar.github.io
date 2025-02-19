@@ -4,10 +4,13 @@ Authors: Yash Sarkango
 URL: 
 save_as: index.html
 
-
 <img src="{static}../images/photo.JPG" alt="Picture" width="200"/>
 
-I am a researcher of space plasma physics.  In particular, I have studied 
-plasma processes within planetary magnetospheres such as that of Jupiter.  I 
-earned a PhD from the University of Michigan in 2021, and from 2022-2025 I was
-a postdoctoral researcher at Princeton University.
+<br />
+I am a researcher specializing in space plasma physics and planetary
+magnetospheres.  I earned a PhD in 2021 from the University of Michigan. From
+2022 to Jan 2025, I was a postdoc in the Space Physics group at Princeton
+University.  For my research, I specialize in empirical and observational 
+studies of plasma processes, as measured by instruments onboard spacecraft.  
+
+I can be reached via Email at - `<my-last-name>@umich.edu` .
