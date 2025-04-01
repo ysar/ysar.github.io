@@ -1,7 +1,7 @@
 Title: Useful Links
 Summary: List of useful links
 
-## Scientific Journals relevant to me
+## Scientific journals relevant to me
 [link](https://agupubs.onlinelibrary.wiley.com/journal/21699402) - Journal of Geophysical Research: Space Physics  
 [link](https://agupubs.onlinelibrary.wiley.com/journal/19448007) - Geophysical Research Letters  
 [link](https://www.sciencedirect.com/journal/planetary-and-space-science) - Planetary and Space Science  
