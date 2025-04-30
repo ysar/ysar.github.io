@@ -7,9 +7,9 @@ save_as: index.html
 Welcome to my personal website.  
 
 I am a researcher studying space plasma physics and planetary
-magnetospheres.  I earned a PhD in 2021 from the University of Michigan. From
-Jul 2022 to Jan 2025, I was a postdoc in the Space Physics group at Princeton
-University.  
+magnetospheres.  I earned a PhD in Space Science in 2021 from the University 
+of Michigan and continued there as a postdoc until Jun 2022.  From Jul 2022 to 
+Jan 2025, I was a postdoc in the Space Physics group at Princeton University.
 
 I specialize in studies of Jupiter's magnetosphere.
 While at Michigan, I used global magnetohydrodynamic simulations to study its 
