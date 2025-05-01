@@ -8,6 +8,7 @@ Summary: List of useful links
 [link](https://www.annales-geophysicae.net/) - Annales Geophysicae  
 [link](https://agupubs.onlinelibrary.wiley.com/journal/21699100) - Journal of Geophysical Research: Planets  
 [link](https://agupubs.onlinelibrary.wiley.com/journal/15427390) - Space Weather  
+[link](https://arxiv.org/list/physics.space-ph/recent) - arXiv Space Physics (Recent)  
 
 
 ## Data repositories related to space physics
@@ -16,6 +17,7 @@ Summary: List of useful links
 [link](https://spdf.gsfc.nasa.gov/) - NASA/GSFC Space Physics Data Facility (SPDF)  
 [link](https://cdaweb.gsfc.nasa.gov/index.html/) - NASA/GSFC Coordinated Data Analysis Web (CDAWeb)  
 [link](https://omniweb.gsfc.nasa.gov/) - NASA/GSFC OMNIWeb Plus  
+[link](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/index.html) - NAIF CSPICE Documentation
 
 
 ## Other resources
@@ -24,5 +26,5 @@ Summary: List of useful links
 [link](https://www.swpc.noaa.gov/) - NOAA Space Weather Prediction Center   
 [link](https://link.springer.com/search/page/1?facet-series=%221214%22&facet-content-type=%22Book%22) - Springer Texts in Applied Mathematics  
 [link](https://link.springer.com/search/page/1?facet-series=%223423%22&facet-content-type=%22Book%22) - Springer Undergraduate Texts in Mathematics  
-[link](https://link.springer.com/search?facet-series=%22136%22&facet-content-type=%22Book%22) - Springer Graduate Texts in Mathematics
+[link](https://link.springer.com/search?facet-series=%22136%22&facet-content-type=%22Book%22) - Springer Graduate Texts in Mathematics  
 
