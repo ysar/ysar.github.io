@@ -26,4 +26,4 @@ If you'd like to reach me, please email at -
 <br />
 <img src="{static}../images/photo.JPG" alt="Picture" width="150"/>
 
-Daily check-ins - [🐤]({filename}/pages/canaries.md)
+[🐤]({filename}/pages/canaries.md)
