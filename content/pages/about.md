@@ -10,6 +10,8 @@ I am a researcher studying space plasma physics and planetary
 magnetospheres.  I earned a PhD in Space Science in 2021 from the University 
 of Michigan and continued there as a postdoc until Jun 2022.  From Jul 2022 to 
 Jan 2025, I was a postdoc in the Space Physics group at Princeton University.
+  I am currently a researcher at the University of Minnesota within the School
+of Physics and Astronomy.
 
 I specialize in studies of Jupiter's magnetosphere.
 While at Michigan, I used global magnetohydrodynamic simulations to study its 
@@ -21,7 +23,7 @@ moons.  We also found evidence of resonance between a planet's rotation and
 particles trapped by the planet's magnetic field.
 
 If you'd like to reach me, please email at - 
-`<my-last-name>@umich.edu` .
+`<my-last-name>@umn.edu` .
 
 <br />
 <img src="{static}../images/photo.JPG" alt="Picture" width="150"/>
