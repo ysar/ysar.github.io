@@ -4,28 +4,24 @@ Authors: Yash Sarkango
 URL: 
 save_as: index.html
 
-Welcome to my personal website.  
+Welcome to my personal website.  I am an early-career space plasma physicist.  
 
-I am a researcher studying space plasma physics and planetary
-magnetospheres.  I earned a PhD in Space Science in 2021 from the University 
-of Michigan and continued there as a postdoc until Jun 2022.  From Jul 2022 to 
-Jan 2025, I was a postdoc in the Space Physics group at Princeton University.
-  I am currently a researcher at the University of Minnesota within the School
-of Physics and Astronomy.
+Work Experience:
 
-I specialize in studies of Jupiter's magnetosphere.
-While at Michigan, I used global magnetohydrodynamic simulations to study its 
-dynamics. Towards the end of my PhD, I used magnetometer data to study magnetic 
-reconnection.  At Princeton, my collaborators and I used data from the 
-plasma and high-energy particle detectors to search for the Europa neutral 
-torus.  We identified strange plasma distributions in the wakes of the Galilean 
-moons.  We also found evidence of resonance between a planet's rotation and 
-particles trapped by the planet's magnetic field.
+| Dates | Title | Institution | Topic | 
+| --- | --- | --- | --- |   
+| 06/2025-present | Research Professional | University of Minnesota Twin Cities | Plasma wave-particle interactions (in-progress*)
+| 07/2022-01/2025 | Postdoc | Princeton University | Moon-plasma interactions \| plasma distributions and transport <br>Analysis of data from particle detectors
+| 05/2021-06/2022 | Postdoc | University of Michigan Ann Arbor | PIC simulations \| magnetic reconnection
+| 08/2016-04/2021 | PhD Student | University of Michigan Ann Arbor | Global MHD simulations of Jupiter's magnetosphere 
 
-If you'd like to reach me, please email at - 
-`<my-last-name>@umn.edu` .
+Email: `<my-last-name>@umn.edu` 
 
 <br />
 <img src="{static}../images/photo.JPG" alt="Picture" width="150"/>
 
-[🐤]({filename}/pages/canaries.md)
+
+
+[🐤]({filename}/pages/canaries.md)  
+
+For images from research papers click [here]({filename}/pages/images-research.md).

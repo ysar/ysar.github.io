@@ -2,9 +2,9 @@ Title: Research
 Category: Research
 Summary: 
 
-## Peer-reviewed Publications
+For images from research papers click [here]({filename}/pages/images-research.md).  
 
-My Google Scholar profile - [link](https://scholar.google.com/citations?user=acYllUcAAAAJ&hl=en&oi=ao)
+## Peer-reviewed Publications
 
 ### 2025 
 - **Sarkango, Y.**, Szalay, J. R., Damiano, P. A., Sulaiman, A. H., Delamere, P. A., Saur, J., et al. (2025).
@@ -35,3 +35,20 @@ at Europa. Geophysical Research Letters, 51, e2024GL108422. [https://doi.org/10.
 
 ## Other
 - Sarkango, Y., Dynamics of the Jovian Magnetosphere: Combining Insights from Global MHD Simulations and In Situ Measurements From the Juno Spacecraft, 2021, *PhD Dissertation*, University of Michigan, Ann Arbor. [https://dx.doi.org/10.7302/2795](https://dx.doi.org/10.7302/2795)
+
+---
+
+## Statistics
+
+My Google Scholar profile - [link](https://scholar.google.com/citations?user=acYllUcAAAAJ&hl=en&oi=ao)
+
+| Peer-reviewed publications | #                   |
+| -------------------------- | ------------------- |
+| First-author               | 6 (+1 under review) | 
+| Co-author                  | 4                   |
+| **Total**                  | **10**              |
+
+| Reviewer Service     | #   |
+| -------------------- | --- |
+| Manuscripts          | 10  |
+| Proposals            | 6   | 
