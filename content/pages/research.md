@@ -6,7 +6,13 @@ For images from research papers click [here]({filename}/pages/images-research.md
 
 ## Peer-reviewed Publications
 
-### 2025 
+### 2025
+-  **Sarkango, Y.**, Szalay, J. R., Poppe, A. R., Nénon, Q., Liu, Z. Y., Allegrini, F., et al. (2025). 
+Cold and hot electron populations observed by Juno-JADE in the Jovian magnetodisc. Geophysical 
+Research Letters, 52, e2025GL118209. [https://doi.org/10.1029/2025GL118209](https://doi.org/10.1029/2025GL118209) 
+- Liu, Z.-Y., André, N., Rabia, J., Blanc, M., **Sarkango, Y.**, Szalay, J. R., et al. (2025). Radial 
+evolution of electron pitch angle distributions in the inner part of Jovian magnetosphere. 
+Geophysical Research Letters, 52, e2025GL114751. [https://doi.org/10.1029/2025GL114751](https://doi.org/10.1029/2025GL114751)   
 - **Sarkango, Y.**, Szalay, J. R., Damiano, P. A., Sulaiman, A. H., Delamere, P. A., Saur, J., et al. (2025).
 Corotation-bounce resonance of ions in Jupiter's magnetosphere. Geophysical Research Letters, 52,
 e2024GL113193. [https://doi.org/10.1029/2024GL113193](https://doi.org/10.1029/2024GL113193)  
@@ -44,9 +50,9 @@ My Google Scholar profile - [link](https://scholar.google.com/citations?user=acY
 
 | Peer-reviewed publications | #                   |
 | -------------------------- | ------------------- |
-| First-author               | 6 (+1 under review) | 
-| Co-author                  | 4                   |
-| **Total**                  | **10**              |
+| First-author               | 7                   | 
+| Co-author                  | 5                   |
+| **Total**                  | **12**              |
 
 | Reviewer Service     | #   |
 | -------------------- | --- |
